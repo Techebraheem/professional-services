@@ -1,4 +1,4 @@
-google-cloud-bigquery==2.3.1
+google-cloud-bigquery
 google-cloud-billing
 google-api-core
 colorama
